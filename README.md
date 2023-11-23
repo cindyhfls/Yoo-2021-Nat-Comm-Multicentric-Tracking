@@ -1,6 +1,6 @@
 # Readme
 
-This is the modeling part of the paper "[Multicentric tracking of multiple agents by anterior cingulate cortex during pursuit and evasion](https://www.nature.com/articles/s41467-021-22195-z)" by Seng Bum Michael Yoo, Jiaxin Cindy Tu and Benjamin Yost Hayden, Nature Communications (2021) and my sfn poster presentation "Neural representation of allocentric and egocentric positions in a dynamic foraging task" 2018.
+This is the neuron tuning modeling part of the paper "[Multicentric tracking of multiple agents by anterior cingulate cortex during pursuit and evasion](https://www.nature.com/articles/s41467-021-22195-z)" by Seng Bum Michael Yoo, Jiaxin Cindy Tu and Benjamin Yost Hayden, Nature Communications (2021). This same model was also used in [The neural basis of predictive pursuit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7007341/) and my sfn poster (2018) presentation "Neural representation of allocentric and egocentric positions in a dynamic foraging task".
 
 The example data is excluded in ./Data, along with the code to generate it from raw spike trains and behavior in ./FormatData.
 
